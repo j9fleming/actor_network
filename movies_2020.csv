@@ -1,0 +1,401 @@
+Rank,Movie,Release Date,Distributor,Genre,2020 Gross,Tickets Sold
+1,Bad Boys For Life, 2020-01-17,Sony Pictures,Action,"$204,417,855","22,292,023"
+2,1917, 2019-12-25,Universal,Thriller/Suspense,"$157,901,466","17,219,352"
+3,Sonic The Hedgehog, 2020-02-14,Paramount Pictures,Adventure,"$146,066,470","15,928,731"
+4,Jumanji: The Next Level, 2019-12-13,Sony Pictures,Adventure,"$124,736,710","13,602,694"
+5,Star Wars: The Rise of Skyw…, 2019-12-20,Walt Disney,Adventure,"$124,496,308","13,576,478"
+6,Birds of Prey (And the Fant…, 2020-02-07,Warner Bros.,Action,"$84,158,461","9,177,585"
+7,Dolittle, 2020-01-17,Universal,Adventure,"$77,047,065","8,402,079"
+8,The Invisible Man, 2020-02-28,Universal,Horror,"$64,914,050","7,078,958"
+9,The Call of the Wild, 2020-02-21,20th Century Studios,Adventure,"$62,342,368","6,798,513"
+10,Onward, 2020-03-06,Walt Disney,Adventure,"$61,555,145","6,712,665"
+11,Tenet, 2020-09-03,Warner Bros.,Action,"$58,044,165","6,329,788"
+12,Halloween, 1978-10-17,Compass Internati…,Horror,"$47,274,000","5,155,288"
+13,Little Women, 2019-12-25,Sony Pictures,Drama,"$37,593,127","4,099,577"
+14,The Gentlemen, 2020-01-24,STX Entertainment,Action,"$36,471,796","3,977,295"
+15,Just Mercy, 2020-01-10,Warner Bros.,Drama,"$35,733,621","3,896,796"
+16,Knives Out, 2019-11-27,Lionsgate,Drama,"$35,244,610","3,843,468"
+17,The Croods: A New Age, 2020-11-25,Universal,Adventure,"$32,334,280","3,526,093"
+18,Parasite, 2019-10-11,Neon,Black Comedy,"$29,518,856","3,219,068"
+19,Frozen II, 2019-11-22,Walt Disney,Adventure,"$26,934,045","2,937,191"
+20,Fantasy Island, 2020-02-14,Sony Pictures,Horror,"$26,441,782","2,883,509"
+21,The New Mutants, 2020-08-28,20th Century Studios,Horror,"$23,855,569","2,601,479"
+22,Wonder Woman 1984, 2020-12-25,Warner Bros.,Action,"$23,009,311","2,509,194"
+23,Like a Boss, 2020-01-10,Paramount Pictures,Comedy,"$22,169,514","2,417,613"
+24,Unhinged, 2020-08-21,Solstice Studios,Thriller/Suspense,"$20,831,465","2,271,697"
+25,The Photograph, 2020-02-14,Universal,Drama,"$20,578,185","2,244,076"
+26,Spies in Disguise, 2019-12-25,20th Century Fox,Adventure,"$19,714,592","2,149,900"
+27,The War with Grandpa, 2020-10-09,101 Studios,Comedy,"$18,861,607","2,056,881"
+28,Underwater, 2020-01-10,20th Century Fox,Thriller/Suspense,"$17,291,078","1,885,613"
+29,The Turning, 2020-01-24,Universal,Horror,"$15,472,775","1,687,325"
+30,Gretel & Hansel, 2020-01-31,United Artists,Horror,"$15,347,654","1,673,680"
+31,Honest Thief, 2020-10-16,Open Road,Thriller/Suspense,"$14,163,574","1,544,555"
+32,The Way Back, 2020-03-06,Warner Bros.,Drama,"$13,590,514","1,482,062"
+33,My Hero Academia: Heroes: R…, 2020-02-26,FUNimation,Adventure,"$13,553,826","1,478,061"
+34,Uncut Gems, 2019-12-25,A24,Thriller/Suspense,"$13,467,396","1,468,636"
+35,Brahms: The Boy II, 2020-02-21,STX Entertainment,Horror,"$12,611,536","1,375,303"
+36,Jojo Rabbit, 2019-10-18,Fox Searchlight,Black Comedy,"$11,791,356","1,285,862"
+37,Impractical Jokers: The Movie, 2020-02-21,truTV,Comedy,"$10,466,091","1,141,340"
+38,I Still Believe, 2020-03-13,Lionsgate,Drama,"$10,410,004","1,135,223"
+39,Emma., 2020-02-21,Focus Features,Drama,"$10,055,355","1,096,549"
+40,Bloodshot, 2020-03-13,Sony Pictures,Action,"$10,021,787","1,092,888"
+41,The Grudge, 2020-01-03,Sony Pictures,Horror,"$9,812,035","1,070,014"
+42,Come Play, 2020-10-30,Focus Features,Horror,"$9,505,540","1,036,591"
+43,Let Him Go, 2020-11-06,Focus Features,Thriller/Suspense,"$9,347,940","1,019,404"
+44,Freaky, 2020-11-13,Universal,Horror,"$8,702,060","948,970"
+45,Downhill, 2020-02-14,Searchlight Pictures,Drama,"$8,287,061","903,714"
+46,Weathering With You, 2020-01-15,GKIDS,Drama,"$7,798,703","850,458"
+47,Ford v. Ferrari, 2019-11-15,20th Century Fox,Drama,"$7,648,018","834,025"
+48,Cats, 2019-12-20,Universal,Musical,"$7,196,675","784,806"
+49,Bombshell, 2019-12-13,Lionsgate,Drama,"$7,172,836","782,206"
+50,It's a Wonderful Life, 1946-12-20,,Drama,"$6,644,000","724,536"
+51,The Hunt, 2020-03-13,Universal,Thriller/Suspense,"$5,812,500","633,860"
+52,The Rhythm Section, 2020-01-31,Paramount Pictures,Thriller/Suspense,"$5,437,971","593,017"
+53,Monster Hunter, 2020-12-18,Sony Pictures,Action,"$5,018,403","547,263"
+54,The SpongeBob Movie: Sponge…, 2020-08-14,Paramount Pictures,Adventure,"$4,810,790","524,622"
+55,Hocus Pocus, 1993-07-16,Walt Disney,Comedy,"$4,777,471","520,989"
+56,National Lampoon’s Christma…, 1989-12-01,Warner Bros.,Comedy,"$4,593,728","500,951"
+57,Richard Jewell, 2019-12-13,Warner Bros.,Drama,"$4,523,325","493,274"
+58,The Broken Hearts Gallery, 2020-09-11,Sony Pictures,Romantic Comedy,"$4,066,487","443,455"
+59,Infidel, 2020-09-18,Cloudburst Entert…,Thriller/Suspense,"$4,051,990","441,874"
+60,A Christmas Story, 1983-11-18,MGM,Comedy,"$3,896,391","424,906"
+61,Portrait of a Lady on Fire, 2019-12-06,Neon,Drama,"$3,759,854","410,016"
+62,News of the World, 2020-12-25,Universal,Western,"$3,717,170","405,362"
+63,Bill & Ted Face the Music, 2020-08-28,United Artists,Comedy,"$3,439,660","375,099"
+64,2020 Oscar Shorts, 2020-01-29,ShortsHD,Multiple Genres,"$3,304,748","360,386"
+65,Fatale, 2020-12-18,Lionsgate,Thriller/Suspense,"$3,089,694","336,935"
+66,Queen & Slim, 2019-11-27,Universal,Drama,"$3,089,365","336,899"
+67,The Empty Man, 2020-10-23,20th Century Studios,Horror,"$2,995,698","326,684"
+68,My Boyfriend’s Meds, 2020-02-21,Lionsgate,Romantic Comedy,"$2,971,116","324,003"
+69,The Last Full Measure, 2020-01-24,Roadside Attractions,Drama,"$2,949,212","321,615"
+70,A Beautiful Day in the Neig…, 2019-11-22,Sony Pictures,Drama,"$2,894,475","315,646"
+71,Words on Bathroom Walls, 2020-08-21,Roadside Attractions,Drama,"$2,542,518","277,264"
+72,After We Collided, 2020-09-11,,Drama,"$2,386,483","260,248"
+73,The Nightmare Before Christmas, 1993-10-13,Walt Disney,Musical,"$2,286,000","249,291"
+74,The Lodge, 2020-02-07,Neon,Horror,"$2,138,907","233,250"
+75,Half Brothers, 2020-12-04,Focus Features,Comedy,"$2,016,150","219,863"
+76,The Personal History of Dav…, 2020-08-28,Searchlight Pictures,Drama,"$1,876,298","204,612"
+77,The Wretched, 2020-05-01,IFC Midnight,Horror,"$1,815,440","197,976"
+78,Joker, 2019-10-04,Warner Bros.,Thriller/Suspense,"$1,678,800","183,075"
+79,The Rental, 2020-07-24,IFC Films,Thriller/Suspense,"$1,637,548","178,576"
+80,Star Wars Ep. V: The Empire…, 1981-07-31,20th Century Fox,Adventure,"$1,580,209","172,323"
+81,Once Upon a Time…in Hollywo…, 2019-07-26,Sony Pictures,Thriller/Suspense,"$1,406,198","153,347"
+82,2 Hearts, 2020-10-16,Freestyle Releasing,Drama,"$1,349,284","147,141"
+83,Jay and Silent Bob Reboot, 2019-10-15,Fathom Events,Comedy,"$1,330,666","145,110"
+84,Train to Busan Presents: Pe…, 2020-08-21,Well Go USA,Horror,"$1,224,525","133,535"
+85,Promising Young Woman, 2020-12-25,Focus Features,Black Comedy,"$1,208,180","131,753"
+86,Met Opera — Agrippina, 2020-02-29,Fathom Events,Concert/Perfor…,"$1,150,000","125,408"
+87,True to the Game 2: Gena’s …, 2020-11-06,Faith Media Distr…,Thriller/Suspense,"$1,117,808","121,898"
+88,The Assistant, 2020-01-31,Bleecker Street,Drama,"$1,100,310","119,990"
+89,IP Man: The Finale, 2019-12-25,Well Go USA,Action,"$1,089,355","118,795"
+90,Love and Monsters, 2020-10-16,Paramount Pictures,Adventure,"$1,070,714","116,762"
+91,Relic, 2020-07-03,IFC Midnight,Thriller/Suspense,"$1,047,083","114,185"
+92,The Tax Collector, 2020-08-07,RLJ Entertainment,Action,"$1,044,212","113,872"
+93,Die Hard, 1988-07-15,20th Century Fox,Action,"$1,036,063","112,983"
+94,Becky, 2020-06-05,Quiver,Thriller/Suspense,"$1,002,852","109,362"
+95,Break the Silence The Movie, 2020-09-24,Trafalgar Releasing,Documentary,"$1,000,000","109,051"
+96,Elf, 2003-11-07,New Line,Comedy,"$905,000","98,691"
+97,All My Life, 2020-12-04,Universal,Drama,"$899,585","98,100"
+98,The Song of Names, 2019-12-25,Sony Pictures Cla…,Drama,"$891,579","97,227"
+99,Toy Story, 1995-11-22,Walt Disney,Adventure,"$870,305","94,907"
+100,Met Opera: Wozzeck, 2020-01-11,Fathom Events,Concert/Perfor…,"$863,000","94,111"
+101,Cut Throat City, 2020-07-31,Well Go USA,Drama,"$855,894","93,336"
+102,Sarileru Neekevvaru, 2020-01-10,Great India Films,Action,"$821,000","89,531"
+103,Vanguard, 2020-11-20,Gravitas Ventures,Action,"$793,525","86,534"
+104,Pinocchio, 2020-12-25,Roadside Attractions,Adventure,"$782,555","85,338"
+105,Color Out of Space, 2020-01-24,RLJ Entertainment,Horror,"$765,561","83,485"
+106,Shortcut, 2020-09-25,Gravitas Ventures,Horror,"$758,223","82,685"
+107,Possessor, 2020-10-02,Neon,Thriller/Suspense,"$752,885","82,103"
+108,Coco, 2017-11-22,Walt Disney,Musical,"$734,000","80,043"
+109,"Monsters, Inc.", 2001-11-02,Walt Disney,Adventure,"$726,000","79,171"
+110,Baaghi 3, 2020-03-06,FIP,Action,"$721,439","78,673"
+111,The Santa Clause, 1994-11-11,Walt Disney,Adventure,"$706,000","76,990"
+112,The Last Vermeer, 2020-11-20,Sony Pictures Cla…,Drama,"$685,380","74,741"
+113,The Addams Family, 2019-10-11,United Artists,Adventure,"$678,926","74,037"
+114,The Last Shift, 2020-09-25,Sony Pictures,Comedy,"$643,658","70,191"
+115,Synchronic, 2020-10-23,Well Go USA,Thriller/Suspense,"$636,673","69,429"
+116,Maleficent: Mistress of Evil, 2019-10-18,Walt Disney,Adventure,"$634,868","69,233"
+117,Chhapaak, 2020-01-10,FIP,Drama,"$604,334","65,903"
+118,Pain & Glory, 2019-10-04,Sony Pictures Cla…,Drama,"$599,619","65,389"
+119,Panga, 2020-01-24,FIP,Drama,"$582,720","63,546"
+120,Black Christmas, 2019-12-13,Universal,Horror,"$562,060","61,293"
+121,Guardians of the Galaxy, 2014-08-01,Walt Disney,Action,"$542,000","59,105"
+122,Alone, 2020-09-18,Magnolia Pictures,Thriller/Suspense,"$538,358","58,708"
+123,Followed, 2020-06-19,Global View Enter…,Horror,"$538,179","58,689"
+124,The Polar Express, 2004-11-10,Warner Bros.,Adventure,"$536,000","58,451"
+125,Harriet, 2019-11-01,Focus Features,Drama,"$534,455","58,282"
+126,Kajillionaire, 2020-09-25,Focus Features,Drama,"$531,430","57,953"
+127,The Call, 2020-10-02,Atlas Distribution,Horror,"$516,520","56,327"
+128,The Big Ugly, 2020-07-24,Vertical Entertai…,Action,"$514,107","56,064"
+129,Dark Waters, 2019-11-22,Focus Features,Drama,"$502,205","54,766"
+130,The Forgotten Carols, 2020-11-20,Purdie Distribution,Musical,"$501,629","54,703"
+131,Spell, 2020-10-30,Paramount Pictures,Horror,"$500,104","54,536"
+132,Ava, 2020-09-25,Vertical Entertai…,Action,"$497,747","54,279"
+133,CatVideoFest, 2020-02-21,Oscilloscope Pict…,Documentary,"$478,775","52,211"
+134,A Hidden Life, 2019-12-13,Fox Searchlight,Drama,"$456,268","49,756"
+135,Once Were Brothers: Robbie …, 2020-02-21,Magnolia Pictures,Documentary,"$449,561","49,025"
+136,Seberg, 2019-12-13,Amazon Studios,Thriller/Suspense,"$448,009","48,855"
+137,Infamous, 2020-06-12,Vertical Entertai…,Action,"$429,148","46,799"
+138,Tulsa, 2020-08-21,Self Distributed,Drama,"$413,522","45,095"
+139,Buddy Games, 2020-11-20,Paramount Pictures,Comedy,"$405,904","44,264"
+140,Yellow Rose, 2020-10-08,Sony Pictures,Drama,"$367,849","40,114"
+141,The Kid Detective, 2020-10-16,Sony Pictures,Black Comedy,"$364,138","39,709"
+142,Greed, 2020-02-28,Sony Pictures Cla…,Comedy,"$355,308","38,746"
+143,Thank You For Everything, 2019-12-25,Entertainment One,Comedy,"$352,149","38,402"
+144,Ride Your Wave, 2020-02-19,GKIDS,Comedy,"$332,432","36,252"
+145,Les Misérables, 2020-01-10,Amazon Studios,Drama,"$330,181","36,006"
+146,Ordinary Love, 2020-02-14,Bleecker Street,Drama,"$323,688","35,298"
+147,How the Grinch Stole Christmas, 2000-11-17,Universal,Adventure,"$304,000","33,151"
+148,Save Yourselves!, 2020-10-02,Bleecker Street,Comedy,"$301,162","32,842"
+149,The Informer, 2020-11-06,Aviron Pictures,Thriller/Suspense,"$300,460","32,765"
+150,Midway, 2019-11-08,Lionsgate,Action,"$299,520","32,663"
+151,The Traitor, 2020-01-31,Sony Pictures Cla…,Drama,"$296,027","32,282"
+152,Judy, 2019-09-27,Roadside Attractions,Drama,"$292,206","31,865"
+153,Clemency, 2019-12-27,Neon,Drama,"$288,343","31,444"
+154,Created Equal: Clarence Tho…, 2020-01-31,Manifold Productions,Documentary,"$282,149","30,768"
+155,Missão: Vingança, 2020-11-13,Saban Films,Black Comedy,"$278,378","30,357"
+156,21 Bridges, 2019-11-22,STX Entertainment,Thriller/Suspense,"$274,740","29,960"
+157,"Mafia, Inc.", 2020-02-14,Films Seville,Drama,"$264,552","28,849"
+158,Tokyo Godfathers, 2004-01-16,IDP Distribution,Adventure,"$237,581","25,908"
+159,The Climb, 2020-11-13,Sony Pictures Cla…,Drama,"$234,429","25,564"
+160,The Secrets We Keep, 2020-09-16,Bleecker Street,Thriller/Suspense,"$231,119","25,203"
+161,Frozen, 2013-11-27,Walt Disney,Musical,"$215,000","23,446"
+162,Legend of Deification, 2020-10-01,Well Go USA,Adventure,"$214,670","23,410"
+163,Dr. Seuss’ The Grinch, 2018-11-09,Universal,Adventure,"$214,000","23,336"
+164,Wild Mountain Thyme, 2020-12-11,Bleecker Street,Drama,"$213,441","23,276"
+165,Beanpole, 2020-01-29,Kino Lorber,Drama,"$196,258","21,402"
+166,The Doors: Break on Thru — …, 2020-02-12,Trafalgar Releasing,Documentary,"$186,920","20,383"
+167,The Outpost, 2020-07-03,Screen Media Films,Action,"$186,634","20,352"
+168,The Wolf of Snow Hollow, 2020-10-09,Orion Classics,Horror,"$185,026","20,177"
+169,Come Away, 2020-11-13,Relativity,Drama,"$184,477","20,117"
+170,63 Up, 2019-11-27,BritBox,Documentary,"$183,940","20,058"
+171,The Good Liar, 2019-11-15,Warner Bros.,Thriller/Suspense,"$182,779","19,932"
+172,And Then We Danced, 2020-02-07,Music Box Films,Drama,"$177,262","19,330"
+173,No Escape, 2020-09-18,Vertical Entertai…,Horror,"$167,962","18,316"
+174,Extra Ordinary, 2020-03-06,Cranked Up Films,Horror,"$164,346","17,922"
+175,Cunningham, 2019-12-13,Magnolia Pictures,Documentary,"$163,020","17,777"
+176,Ammonite, 2020-11-13,Neon,Drama,"$160,930","17,549"
+177,A Call to Spy, 2020-10-02,IFC Films,Drama,"$159,014","17,340"
+178,The Dark and The Wicked, 2020-11-06,RLJ Entertainment,Horror,"$152,261","16,604"
+179,The Burnt Orange Heresy, 2020-03-06,Sony Pictures Cla…,Thriller/Suspense,"$144,201","15,725"
+180,Always & Forever, 2020-11-20,RLJ Entertainment,Thriller/Suspense,"$144,161","15,720"
+181,Wendy, 2020-02-28,Searchlight Pictures,Drama,"$143,518","15,650"
+182,Incitement, 2020-01-31,Greenwich,Thriller/Suspense,"$140,306","15,300"
+183,Archive, 2020-07-10,Vertical Entertai…,,"$139,593","15,222"
+184,Burden, 2020-02-28,101 Studios,Drama,"$139,270","15,187"
+185,Lupin III: The First, 2020-10-18,GKIDS,Adventure,"$139,066","15,165"
+186,The Nest, 2020-09-18,IFC Films,Drama,"$137,852","15,032"
+187,Beneath Us, 2020-03-06,NME,Horror,"$137,260","14,968"
+188,Ashfall, 2019-12-20,CJ Entertainment,Action,"$136,379","14,872"
+189,The Times of Bill Cunningham, 2020-02-14,Greenwich,Documentary,"$134,288","14,644"
+190,Fantastic Fungi, 2019-09-20,Area 23a,Documentary,"$129,130","14,081"
+191,Alita: Battle Angel, 2019-02-14,20th Century Fox,Action,"$128,000","13,958"
+192,Saint Frances, 2020-02-28,Oscilloscope Pict…,Multiple Genres,"$127,275","13,879"
+193,Corpus Christi, 2020-02-14,Film Movement,Drama,"$127,240","13,875"
+194,The Man Standing Next, 2020-01-24,Capelight Pictures,Thriller/Suspense,"$113,527","12,380"
+195,Murder in the Woods, 2020-08-14,Rezinate Entertai…,Horror,"$109,299","11,919"
+196,The Muppet Christmas Carol, 1992-12-11,Walt Disney,Comedy,"$105,400","11,494"
+197,Hope Gap, 2020-03-06,Roadside Attractions,Drama,"$104,732","11,421"
+198,Honeyland, 2019-07-26,Neon,Documentary,"$102,719","11,201"
+199,Citizen K, 2019-11-22,Greenwich,Documentary,"$101,762","11,097"
+200,Archenemy, 2020-12-11,RLJ Entertainment,Action,"$101,360","11,053"
+201,Made in Italy, 2020-08-07,IFC Films,Drama,"$101,339","11,051"
+202,First Cow, 2020-03-06,A24,Drama,"$101,068","11,021"
+203,The Silencing, 2020-08-14,Saban Films,Thriller/Suspense,"$100,746","10,986"
+204,The Woman Who Loves Giraffes, 2019-10-04,Zeitgeist,Documentary,"$99,508","10,851"
+205,Come to Daddy, 2020-02-07,Saban Films,Black Comedy,"$96,713","10,546"
+206,Tesla, 2020-08-21,IFC Films,Drama,"$93,147","10,157"
+207,Invisible Life, 2019-12-20,Amazon Studios,Drama,"$92,752","10,114"
+208,Zombieland: Double Tap, 2019-10-18,Sony Pictures,Comedy,"$90,559","9,875"
+209,First Lady, 2020-02-14,ArtAffects,Romantic Comedy,"$89,885","9,802"
+210,On the Basis of Sex, 2018-12-25,Focus Features,Drama,"$82,150","8,958"
+211,StarDog and TurboCat, 2020-06-19,Vivafilm,Adventure,"$80,496","8,778"
+212,Percy, 2020-10-09,Mongrel Media,Drama,"$76,511","8,343"
+213,Alien, 1979-05-25,20th Century Fox,Horror,"$75,000","8,178"
+214,Pray: The Story of Patrick …, 2020-10-09,ArtAffects,Documentary,"$72,347","7,889"
+215,How to Build a Girl, 2020-05-08,IFC Films,Comedy,"$70,632","7,702"
+216,Come and See, 2001-02-02,,Drama,"$62,774","6,845"
+217,We Summon the Darkness, 2020-05-22,Saban Films,Horror,"$60,794","6,629"
+218,My Brothers’ Crossing, 2020-09-03,Atlas Distribution,Drama,"$59,390","6,476"
+219,Summerland, 2020-07-31,IFC Films,Drama,"$58,434","6,372"
+220,Bacurau, 2020-03-06,Kino Lorber,Action,"$58,115","6,337"
+221,The Godfather: Part III, 1990-12-25,Paramount Pictures,Drama,"$58,097","6,335"
+222,The Lighthouse, 2019-10-18,A24,Drama,"$57,784","6,301"
+223,The Dissident, 2020-12-25,Briarcliff Entert…,Documentary,"$57,000","6,215"
+224,The Whistlers, 2020-02-28,Magnolia Pictures,Comedy,"$55,608","6,064"
+225,A Simple Wedding, 2020-02-14,Blue Fox Entertai…,Romantic Comedy,"$54,415","5,934"
+226,Varda by Agnes, 2019-11-22,Janus Films,Documentary,"$53,134","5,794"
+227,No Safe Spaces, 2019-12-06,Atlas Distribution,Documentary,"$51,303","5,594"
+228,Miss Fisher & The Crypt Of …, 2020-03-13,Acorn TV,Adventure,"$51,032","5,565"
+229,Henchmen, 2020-10-02,Entertainment One,Adventure,"$49,676","5,417"
+230,The Way I See it, 2020-09-18,Focus Features,Documentary,"$49,030","5,346"
+231,VHYes, 2020-01-12,Oscilloscope Pict…,Comedy,"$47,037","5,129"
+232,Enter the Fat Dragon, 2020-02-14,Well Go USA,Action,"$46,855","5,109"
+233,Play the Flute, 2019-01-28,Five & Two Pictures,Drama,"$46,812","5,104"
+234,Playing with Fire, 2019-11-08,Paramount Pictures,Comedy,"$44,957","4,902"
+235,Shadow in the Cloud, 2020-09-12,,Action,"$39,117","4,265"
+236,Doctor Sleep, 2019-11-08,Warner Bros.,Horror,"$38,615","4,211"
+237,Three Christs, 2020-01-10,IFC Films,Drama,"$37,788","4,120"
+238,Other Music, 2020-04-17,Oscilloscope Pict…,Documentary,"$37,191","4,055"
+239,Solo Brathuke So Better, 2020-12-25,Zee Studios,Drama,"$35,000","3,816"
+240,Juvenile Delinquents, 2020-08-07,Atlas Distribution,Drama,"$34,292","3,739"
+241,Best of Catvideofest, 2020-04-03,Oscilloscope Pict…,Documentary,"$34,287","3,739"
+242,RBG, 2018-05-04,Magnolia Pictures,Documentary,"$34,000","3,707"
+243,True History Of The Kelly Gang, 2020-04-24,IFC Films,Drama,"$33,816","3,687"
+244,Swallow, 2020-03-06,IFC Films,Thriller/Suspense,"$33,419","3,644"
+245,Waves, 2019-11-15,A24,Musical,"$32,518","3,546"
+246,Honey Boy, 2019-11-08,Amazon Studios,Drama,"$32,516","3,545"
+247,Embattled, 2020-11-20,IFC Films,Drama,"$32,259","3,517"
+248,Nick Mason’s Saucerful of S…, 2020-03-10,Trafalgar Releasing,Concert/Perfor…,"$31,739","3,461"
+249,Max Winslow and the House o…, 2020-05-29,3DLive,Thriller/Suspense,"$31,252","3,408"
+250,After Parkland, 2020-02-12,Kino Lorber,Documentary,"$30,444","3,319"
+251,Rent-A-Pal, 2020-09-11,IFC Midnight,Horror,"$29,615","3,229"
+252,Olympic Dreams, 2020-02-14,IFC Films,Romantic Comedy,"$29,450","3,211"
+253,Tread, 2020-02-21,Gravitas Ventures,Documentary,"$29,136","3,177"
+254,Buffaloed, 2020-02-14,Magnolia Pictures,Comedy,"$29,118","3,175"
+255,The White Sheik, 1956-04-25,Janus Films,Comedy,"$28,841","3,145"
+256,Spree, 2020-08-14,RLJ Entertainment,Black Comedy,"$28,771","3,137"
+257,Sorry We Missed You, 2020-03-06,Zeitgeist,Drama,"$28,273","3,083"
+258,Cane River, 2020-02-07,Oscilloscope Pict…,Drama,"$27,317","2,978"
+259,José, 2020-01-31,Outsider,Drama,"$26,563","2,896"
+260,Zombi Child, 2020-01-24,Film Movement,Adventure,"$25,878","2,822"
+261,The Booksellers, 2020-03-06,Greenwich,Documentary,"$25,694","2,801"
+262,Unsubscribe, 2020-06-10,Self Distributed,,"$25,488","2,779"
+263,Disappearance at Clifton Hill, 2020-02-28,IFC Midnight,Thriller/Suspense,"$25,084","2,735"
+264,Heart of Africa, 2020-03-13,Purdie Distribution,Drama,"$24,139","2,632"
+265,Premature, 2020-02-21,IFC Films,Drama,"$23,071","2,515"
+266,Promare, 2019-09-17,GKIDS,Adventure,"$23,053","2,513"
+267,"Phoenix, Oregon", 2019-04-26,Joma Films,Comedy,"$22,755","2,481"
+268,The Innocent (1979) (Re-Rel…, 2020-02-14,Film Movement,Drama,"$22,549","2,458"
+269,Midnight Family, 2019-12-06,1091 Media,Documentary,"$22,327","2,434"
+270,Tar, 2020-10-02,Howling Wolf Prod…,Horror,"$22,307","2,432"
+271,I Propose We Never See Each…, 2020-08-28,,Romantic Comedy,"$21,757","2,372"
+272,Pandora and the Flying Dutc…, 2020-02-07,Cohen Media Group,Drama,"$21,536","2,348"
+273,Hunter Hunter, 2020-12-18,IFC Films,Horror,"$21,296","2,322"
+274,Young Ahmed, 2020-02-21,Kino Lorber,Drama,"$21,291","2,321"
+275,The Cordillera of Dreams, 2020-02-12,Icarus Films,Documentary,"$20,943","2,283"
+276,Lore, 2020-01-17,Indican Pictures,Thriller/Suspense,"$20,006","2,181"
+277,Quarantine Cat Film Fest, 2020-06-19,Row House Cinema,Documentary,"$20,000","2,181"
+278,Synonyms, 2019-10-25,Kino Lorber,Drama,"$19,521","2,128"
+279,Mandy, 2018-09-14,RLJ Entertainment,Thriller/Suspense,"$19,169","2,090"
+280,Recorder: The Marion Stokes…, 2019-11-15,Zeitgeist,Documentary,"$19,109","2,083"
+281,Foster Boy, 2020-09-18,Gravitas Ventures,Drama,"$19,046","2,076"
+282,Sputnik, 2020-08-14,IFC Midnight,Horror,"$18,853","2,055"
+283,The Jesus Rolls, 2020-02-28,Screen Media Films,Comedy,"$18,169","1,981"
+284,Sh*thouse, 2020-10-16,IFC Films,Comedy,"$18,148","1,979"
+285,Downtown 81, 2001-07-13,,Drama,"$17,605","1,919"
+286,The Cave, 2019-10-18,National Geograph…,Documentary,"$17,529","1,911"
+287,Balloon, 2019-09-06,Distrib Films,Thriller/Suspense,"$17,430","1,900"
+288,"Never, Rarely, Sometimes, A…", 2020-03-13,Focus Features,Drama,"$16,565","1,806"
+289,Centigrade, 2020-08-28,IFC Films,Thriller/Suspense,"$16,263","1,773"
+290,Made in Hong Kong, 2020-03-06,Metrograph Pictures,Comedy,"$16,255","1,772"
+291,Branagh Theatre Live: The W…, 2019-12-04,Trafalgar Releasing,Drama,"$15,789","1,721"
+292,Strike, 2020-03-27,Indican Pictures,Adventure,"$15,758","1,718"
+293,Counter Column, 2020-10-16,Not That Kind of …,Drama,"$15,527","1,693"
+294,Zappa, 2020-11-27,Magnolia Pictures,Documentary,"$15,502","1,690"
+295,Vitalina Varela, 2020-02-21,Grasshopper Film,Drama,"$14,941","1,629"
+296,"I Was at Home, But…", 2020-02-14,Cinema Guild,Drama,"$14,078","1,535"
+297,Pahokee, 2020-04-24,Monument Releasing,Documentary,"$13,250","1,444"
+298,The Wild Goose Lake, 2020-03-06,Film Movement,Thriller/Suspense,"$12,573","1,371"
+299,Killer Raccoons 2: Dark Chr…, 2020-07-31,Indican Pictures,Comedy,"$12,382","1,350"
+300,Those Who Remained, 2020-02-14,Menemsha Entertai…,Drama,"$11,862","1,293"
+301,Redoubt, 2019-10-30,Grasshopper Film,Thriller/Suspense,"$11,599","1,264"
+302,Twiceborn, 2020-10-16,Freestyle Releasing,Drama,"$11,527","1,257"
+303,Les Misérables - The Staged…, 2019-12-06,Trafalgar Releasing,Concert/Perfor…,"$11,394","1,242"
+304,Powerbomb, 2020-03-06,Indican Pictures,Thriller/Suspense,"$11,319","1,234"
+305,Lost in America, 2020-02-28,Indican Pictures,Documentary,"$11,301","1,232"
+306,Charlie’s Angels, 2019-11-15,Sony Pictures,Action,"$11,125","1,213"
+307,You go to my Head, 2020-02-14,First Run Features,Drama,"$10,683","1,164"
+308,Circles: The Restorative Ju…, 2020-05-15,Indican Pictures,Documentary,"$10,260","1,118"
+309,Coded Bias, 2020-11-11,7th Empire Media,Documentary,"$10,236","1,116"
+310,The Last Tree, 2020-06-26,ArtMattan Films,Drama,"$10,128","1,104"
+311,Guest Artist, 2020-07-10,Indican Pictures,Drama,"$10,017","1,092"
+312,Foosballers, 2020-02-11,Kicking and Scree…,Documentary,"$9,966","1,086"
+313,The Truth, 2020-07-03,IFC Films,Drama,"$9,619","1,048"
+314,Just One More Kiss, 2020-02-21,Indican Pictures,Drama,"$9,130",995
+315,Stardust, 2020-11-25,IFC Films,Drama,"$9,087",990
+316,Kindred, 2020-11-06,IFC Midnight,Thriller/Suspense,"$8,921",972
+317,The Trip to Greece, 2020-05-22,IFC Films,Comedy,"$8,340",909
+318,Inside the Rain, 2020-03-13,Sky Island,Romantic Comedy,"$8,140",887
+319,The Wave, 2020-01-17,Epic Pictures Group,Thriller/Suspense,"$8,101",883
+320,Kind Hearts and Coronets, 2019-11-22,Rialto Pictures,Black Comedy,"$8,055",878
+321,The Artist’s Wife, 2020-09-25,Strand,Drama,"$7,818",852
+322,Advocate, 2020-01-03,Film Movement,Documentary,"$7,790",849
+323,Linda Ronstadt: The Sound o…, 2019-09-06,Greenwich,Documentary,"$7,763",846
+324,The Bra, 2020-10-16,Indican Pictures,Comedy,"$7,742",844
+325,I Am Greta, 2020-10-16,,Documentary,"$7,574",825
+326,Lie Exposed, 2020-03-06,Mongrel Media,Drama,"$7,467",814
+327,Resistance, 2020-04-17,IFC Films,Drama,"$7,464",813
+328,The Kingmaker, 2019-11-08,Greenwich,Documentary,"$7,334",799
+329,What We Found, 2020-07-31,Freestyle Releasing,Thriller/Suspense,"$6,975",760
+330,I Am Lisa, 2020-10-09,Mutiny Pictures,Horror,"$6,949",757
+331,12 Hour Shift, 2020-10-02,Magnolia Pictures,Thriller/Suspense,"$6,820",743
+332,Human Capital, 2020-07-17,Vertical Entertai…,Drama,"$6,596",719
+333,Afterward, 2020-01-10,Abramorama Films,Documentary,"$6,477",706
+334,In the Life of Music, 2020-08-14,Indican Pictures,Drama,"$6,181",674
+335,Blood Widow, 2020-01-17,Indican Pictures,Thriller/Suspense,"$6,047",659
+336,The Other Lamb, 2020-04-03,IFC Films,Drama,"$6,024",656
+337,Find Your Voice, 2020-09-11,Indican Pictures,Comedy,"$6,019",656
+338,Herself, 2020-01-24,,Drama,"$6,000",654
+339,By the Grace of God, 2019-10-18,Music Box Films,Drama,"$5,980",652
+340,Sex and the Future, 2020-06-05,Indican Pictures,Comedy,"$5,727",624
+341,Human Nature, 2020-03-13,Greenwich,Documentary,"$5,487",598
+342,Bang Bang, 2020-10-23,Indican Pictures,Drama,"$5,042",549
+343,Alice, 2020-05-15,Monument Releasing,Comedy,"$5,000",545
+344,Ottolenghi and the Cakes of…, 2020-09-25,IFC Films,Documentary,"$4,962",541
+345,Last Call, 2020-09-18,,Drama,"$4,894",533
+346,Farewell Amor, 2020-12-11,IFC Films,Drama,"$4,689",511
+347,The Disappearance of my Mother, 2019-12-06,Kino Lorber,Documentary,"$4,658",507
+348,No Ordinary Love, 2020-10-24,Self Distributed,Thriller/Suspense,"$4,656",507
+349,Babyteeth, 2020-06-19,IFC Films,Drama,"$4,507",491
+350,Monero Means Money: Cryptoc…, 2020-04-10,"rCryptoCurrency, LLC",Documentary,"$4,470",487
+351,Tremors, 2019-11-29,Film Movement,Drama,"$4,349",474
+352,Give Me Liberty, 2019-08-23,Music Box Films,Comedy,"$4,134",450
+353,Dear Santa, 2020-12-04,IFC Films,Documentary,"$4,109",448
+354,Straight Up, 2020-02-28,Strand,Romantic Comedy,"$4,075",444
+355,Countdown, 2019-10-25,STX Entertainment,Horror,"$3,953",431
+356,Stuffed, 2019-10-16,Music Box Films,Documentary,"$3,849",419
+357,King’s Gambit, 2020-03-06,Indican Pictures,Thriller/Suspense,"$3,816",416
+358,The Roads Not Taken, 2020-04-10,Bleecker Street,Drama,"$3,518",383
+359,IP Man: Kung Fu Master, 2020-12-11,Magnet Pictures,Action,"$3,439",375
+360,Mr. Klein, 1977-11-06,Quartet Films,Drama,"$3,310",360
+361,Chinese Portrait, 2019-12-13,Cinema Guild,Documentary,"$2,894",315
+362,I’ll Take Your Dead, 2019-07-05,Breakthrough Ente…,Horror,"$2,831",308
+363,A Rainy Day in New York, 2020-10-09,Amazon Studios,Romantic Comedy,"$2,744",299
+364,Crock of Gold: A Few Rounds…, 2020-12-04,Magnolia Pictures,Documentary,"$2,455",267
+365,Light From Light, 2019-11-01,Grasshopper Film,Drama,"$2,448",266
+366,Horror Nights, 2020-04-24,Southern Sykos Pr…,Horror,"$2,415",263
+367,Goldie, 2020-02-21,Film Movement,Drama,"$2,302",251
+368,"Amigo Skate, Cuba", 2020-11-20,Indican Pictures,Documentary,"$2,232",243
+369,The Shade Shepherd, 2020-10-16,Indican Pictures,Thriller/Suspense,"$2,116",230
+370,The Transcendents, 2020-06-26,Indican Pictures,Thriller/Suspense,"$2,041",222
+371,A Mermaid in Paris, 2020-10-16,Sony Pictures,Romantic Comedy,"$1,988",216
+372,The Bay of Silence, 2020-08-14,Vertical Entertai…,Thriller/Suspense,"$1,941",211
+373,Edie, 2019-09-06,Music Box Films,Drama,"$1,652",180
+374,American Dharma, 2019-11-01,Utopia,Documentary,"$1,641",178
+375,The Fox Hunter, 2020-06-05,Indican Pictures,Comedy,"$1,577",171
+376,Be Natural: The Untold Stor…, 2019-04-19,Zeitgeist,Documentary,"$1,467",159
+377,The Painted Bird, 2020-07-17,IFC Films,Drama,"$1,460",159
+378,Little Joe, 2019-12-06,Magnolia Pictures,Drama,"$1,440",157
+379,Queen of the Capital, 2020-06-20,Mutiny Pictures,Documentary,"$1,269",138
+380,Christ Stopped at Eboli, 1980-03-23,Franklin Media,Drama,"$1,258",137
+381,Evergreen, 2020-12-23,Indican Pictures,Drama,"$1,193",130
+382,Fear PHarm, 2020-09-11,Indican Pictures,Comedy,"$1,157",126
+383,PLAYMOBIL, 2019-12-06,STX Entertainment,Adventure,"$1,123",122
+384,Hai Tang Hong, 2020-02-21,M Star International,Drama,"$1,107",120
+385,The Gliksmans, 2019-09-27,Indican Pictures,Comedy,"$1,086",118
+386,Parallel Policy, 2020-12-20,Gathr Films,Documentary,"$1,070",116
+387,Ága, 2019-09-04,Big World Pictures,Drama,"$1,048",114
+388,Spiral Farm, 2019-12-13,Indican Pictures,Drama,"$1,042",113
+389,John Wick: Chapter 3 — Para…, 2019-05-17,Lionsgate,Action,"$1,040",113
+390,Another Round, 2020-12-18,Mongrel Media,Drama,$938,102
+391,10 Days With Dad, 2020-11-20,Distrib Films,Comedy,$856,93
+392,Hustlers, 2019-09-13,STX Entertainment,Drama,$612,66
+393,Night Shift, 2020-11-20,Distrib Films,Drama,$534,58
+394,Mickey and the Bear, 2019-11-15,Self Distributed,Drama,$528,57
+395,Granny Nanny, 2020-11-27,Distrib Films,Comedy,$432,47
+396,Sol, 2020-11-20,Distrib Films,Comedy,$327,35
+397,Love by Drowning, 2020-11-06,Dow Jazz Films,Drama,$267,29
+398,St. Patrick’s Day, 2020-12-18,Self Distributed,Educational,$260,28
+399,It’s For Your Own Good, 2020-11-27,Distrib Films,Comedy,$256,27
+400,A German Youth, 2019-10-11,Big World Pictures,Documentary,$166,18
